@@ -1,0 +1,32 @@
+Caveat
+Inter
+Gloria Hallelujah
+Poppins
+Poppins Medium
+Open Sans Bold
+Open Sans
+Lato
+Lato Bold
+Open Sauce
+Open Sauce SemiBold Bold
+Noto Sans Bold
+Russo One
+Prompt Light
+Prompt
+Walter Turncoat
+Paytone One
+Libre Franklin Medium
+Oswald
+Marcellus
+Pacifico
+Josefin Sans
+Roboto
+Roboto Light
+Playfair Display
+Montserrat
+Montserrat Italics
+Alice
+
+
+
+
